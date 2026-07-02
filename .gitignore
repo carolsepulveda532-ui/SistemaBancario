@@ -15,7 +15,11 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+out/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
